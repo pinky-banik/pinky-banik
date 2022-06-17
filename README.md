@@ -25,3 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinky-banik&" alt="pinky-banik" /></p>
 
+### 💪 Contribution graph
+
+<a href="#"><img alt="Nasim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pinky-banik&bg_color=000000&color=06f9a4&line=005cb9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
