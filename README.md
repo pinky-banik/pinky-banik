@@ -15,10 +15,10 @@
 <a href="https://fb.com/pinky.rani.banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pinky.rani.banik" height="30" width="40" /></a>
 <a href="https://dribbble.com/pinkybanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pinkybanik" height="30" width="40" /></a>
 </p>
-//github states
+<!-- //github states -->
  <h2 align="center">Github Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasim-Mahmud&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pinky-banik&theme=highcontrast&hide_border=true)](https://git.io/streak-stat">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
