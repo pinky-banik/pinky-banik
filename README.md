@@ -93,4 +93,4 @@
 </p>
 ### 💪 Contribution graph
 
-<a href="#"><img alt="Pinky's Activity Graph for anything" src="https://activity-graph.herokuapp.com/graph?username=pinky-banik&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Pinky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pinky-banik&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
