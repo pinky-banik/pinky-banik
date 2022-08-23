@@ -1,4 +1,4 @@
-# Hi 👋, I am [Pinky Banik](https://pinky-banik.vercel.app)
+<h1 align="center"> Hi 👋, I am <a href="https://pinky-banik.vercel.app/" target="_blank">Pinky Banik</a></h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinky-banik&label=Profile%20views&color=0e75b6&style=flat" alt="pinky-banik" /> </p>
