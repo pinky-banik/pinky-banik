@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I am <a href="https://pinky-banik.vercel.app/" target="_blank">Pinky Banik</a></h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
-![Github Cover](banner.jpg)
+[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg](https://github.com/pinky-banik/pinky-banik/blob/main/banner.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinky-banik&label=Profile%20views&color=0e75b6&style=flat" alt="pinky-banik" /> </p>
 
