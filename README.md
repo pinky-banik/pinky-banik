@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 <img align="center" src="https://github.com/pinky-banik/pinky-banik/blob/main/banner.jpg" alt="pinkybanik"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinky-banik&label=Profile%20views&color=0e75b6&style=flat" alt="pinky-banik" /> </p>
+<p align="left"> <img src="https://github.com/pinky-banik/pinky-banik/blob/main/github.jpg" alt="pinky-banik" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
