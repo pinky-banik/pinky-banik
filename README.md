@@ -163,7 +163,7 @@
 ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
 </details>
 
-</details>
+<details>
 <summary>Rental Residence</summary>
 1. Live Demo: https://rental-residence.vercel.app/
 2. Github Code: https://github.com/pinky-banik/Rental-Residence
