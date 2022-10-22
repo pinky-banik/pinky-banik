@@ -104,9 +104,72 @@
 1. code link : https://github.com/pinky-banik/quiz_master
 2. Live Demo : https://quiz-master-bd.netlify.app/
 3. Technology : ReactJS,Tailwind CSS, Rest Api, React-router
-![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
+<!-- ![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png) -->
 </details>
 
+<!-- Red Onion -->
+<details>
+<summary>Red Onion</summary>
+
+1. code link : https://github.com/pinky-banik/Red-Onion
+2. Live Demo : https://restaurent-red-onion.netlify.app/
+3. Technology : ReactJS,Tailwind CSS, Rest Api, React-router
+<!-- ![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png) -->
+</details>
+
+
+<!-- Future Fitness -->
+<details>
+<summary>Future Fitness</summary>
+
+1. code link : https://github.com/pinky-banik/Future-Fitness
+2. Live Demo : https://future-fitness.vercel.app/
+3. Technology : ReactJS,Rest Api
+<!-- ![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png) -->
+</details>
+
+
+<!-- My portfolio -->
+<details>
+<summary>My Portfolio</summary>
+
+1. code link : https://github.com/pinky-banik/Pinky-Banik-Portfolio
+2. Live Demo : https://pinky-banik.web.app/
+3. Technology : ReactJS,Material UI
+<!-- ![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png) -->
+</details>
+
+<!-- Infinite Tourism -->
+<details>
+<summary>Infinite Tourism</summary>
+
+1. code link : https://github.com/pinky-banik/MediCare-Home
+2. Live Demo : https://medicare-home.web.app/
+3. Technology : ReactJS,Bootstrap, Json, React-router,firebase
+<!-- ![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png) -->
+</details>
+
+
+<!-- Ema John -->
+<details>
+<summary>Ema John</summary>
+
+1. code link : https://github.com/pinky-banik/ema-john-recap
+2. Live Demo : https://ema-john-alpha.vercel.app/
+3. Technology : ReactJS,Bootstrap, Json, React-router
+<!-- ![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png) -->
+</details>
+
+
+<!-- Music Notes -->
+<details>
+<summary>Music Notes</summary>
+
+1. code link : https://github.com/pinky-banik/music-notes
+2. Live Demo : https://review-website-pinky-banik.netlify.app/
+3. Technology : ReactJS,Bootstrap, Json, React-router
+<!-- ![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png) -->
+</details>
 
 
 ## 📢 MERN Stack Projects
@@ -119,7 +182,7 @@
 2. Client side code : https://github.com/pinky-banik/Garden-Maker-Client
 3. Server side code : https://github.com/pinky-banik/Garden-Maker-Server
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
-![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
 </details>
 
 <!-- Jerins Parlour -->
@@ -131,8 +194,59 @@
 3. Server side code : https://github.com/pinky-banik/Garden-Maker-Server
 
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
-![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
 </details>
+
+<!-- Creative Talks -->
+<details>
+<summary>Creative Talks</summary>
+  
+1. Live Link :https://creative-talks.vercel.app/
+2. Client side code : https://github.com/pinky-banik/Creative-Talks
+3. Server side code : https://github.com/pinky-banik/Creative-Talks-Server
+
+5. Technologies: React JS, Node JS, Express JS, Mongoose, Tailwind CSS etc...
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
+</details>
+
+<!-- Sparkling Glitters -->
+<details>
+<summary>Sparkling Glitters</summary>
+  
+1. Live Link :https://sparkling-glitters.web.app/
+2. Client side code : https://github.com/pinky-banik/Sparkling-Glitters/tree/main/Client
+3. Server side code : https://github.com/pinky-banik/Sparkling-Glitters/tree/main/Server
+
+5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
+</details>
+
+<!-- Infinite Tourism -->
+<details>
+<summary>Infinite Tourism</summary>
+  
+1. Live Link :https://infinite-tourism.firebaseapp.com/
+2. Client side code : https://github.com/pinky-banik/Infinite-Tourism/tree/main/client
+3. Server side code : https://github.com/pinky-banik/Infinite-Tourism/tree/main/server
+
+5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
+</details>
+
+<!-- Doctors Portal -->
+<details>
+<summary>Doctors Portal</summary>
+  
+1. Live Link :https://doctors-portal-tailwind.web.app/
+2. Client side code : https://github.com/pinky-banik/doctors-portal-recap
+3. Server side code : https://github.com/pinky-banik/doctors-portal-server
+
+5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
+</details>
+
+
+
 
 ## 📢 Next Js Projects
 <details>
@@ -141,34 +255,58 @@
 1. Live Demo: https://headphone-media.vercel.app/
 2. Github Code: https://github.com/pinky-banik/Headphone-media
 3. Technology : Next js
-![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
 </details>
 
-<details>
+</details>
 <summary>Rental Residence</summary>
 1. Live Demo: https://rental-residence.vercel.app/
 2. Github Code: https://github.com/pinky-banik/Rental-Residence
 3. Technology : Next Js, chakra ui
-![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
 </details>
 
 ## 📢 Vanilla Javascript Projects
-<details>
-<summary>Search Github Users</summary>
 
-1. Live Demo: https://search-a-github-user-git-main-smabtahinoor.vercel.app/
-2. Github Code: https://github.com/19smabtahinoor/Search-a-github-user
-3. Technology : Vaniila JS
-![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+<!-- Daily News -->
+<details>
+<summary>Daily News</summary>
+
+1. Live Demo: https://dailylife-news.netlify.app/
+2. Github Code: https://github.com/pinky-banik/Daily-News
+3. Technology : Vaniila JS, Tailwind Css , Rest Api
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
+</details>
+
+<!-- Book Archive -->
+<details>
+<summary>Book Archive</summary>
+
+1. Live Demo: https://book-archive-pinky-banik.netlify.app/
+2. Github Code: https://github.com/pinky-banik/Book-Archive
+3. Technology : Vanila JS, Bootstrap, Rest Api
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
+</details>
+
+<!-- Soccer Leaugue -->
+<details>
+<summary>Soccer Leaugue</summary>
+
+1. Live Demo: https://united-soccer-league.netlify.app/
+2. Github Code: https://github.com/pinky-banik/Soccer-League
+3. Technology : Vanila JS, Bootstrap, 
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
 </details>
 
 
 
-## 📢 My Components with Tailwind CSS
+
+<!-- ## 📢 My Components with Tailwind CSS
 <details>
 <summary>Navar with React and Tailwind CSS</summary>
 
 1. Live Demo: https://navbar-react-tailwind.vercel.app/
 2. Github Code: https://github.com/19smabtahinoor/Navbar-React-Tailwind
 3. Technology : React JS, Tailwind CSS
-</details>
+</details> -->
+
