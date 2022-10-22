@@ -126,7 +126,7 @@
 1. Live Demo: https://search-a-github-user-git-main-smabtahinoor.vercel.app/
 2. Github Code: https://github.com/19smabtahinoor/Search-a-github-user
 3. Technology : Vaniila JS
-![ss](https://smabtahinoor.vercel.app/images/portfolio/github.png)
+![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
 </details>
 
 
