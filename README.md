@@ -102,7 +102,7 @@
 
 1. Live Demo : https://cortexlink-react.vercel.app/
 2. Technology : ReactJS,Tailwind CSS, Material UI,Ploty
-![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
+![ss](https://ibb.co/48GdkTc)
 </details>
 
 
