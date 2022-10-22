@@ -97,27 +97,79 @@
 # 🚀 Some Projects
 
 ## 📢 React Projects
+<!-- Quiz Master -->
 <details>
-<summary>CortexLink School Website</summary>
+<summary>Quiz Master</summary>
 
-1. Live Demo : https://cortexlink-react.vercel.app/
-2. Technology : ReactJS,Tailwind CSS, Material UI,Ploty
-![ss](https://ibb.co/48GdkTc)
+1. code link : https://github.com/pinky-banik/quiz_master
+2. Live Demo : https://quiz-master-bd.netlify.app/
+3. Technology : ReactJS,Tailwind CSS, Rest Api, React-router
+![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
 </details>
 
+
+<details>
+<summary>Quiz Master</summary>
+
+1. code link : https://github.com/pinky-banik/quiz_master
+2. Live Demo : https://cortexlink-react.vercel.app/
+3. Technology : ReactJS,Tailwind CSS, Rest Api, React-router
+![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
+</details>
+
+
+<details>
+<summary>Quiz Master</summary>
+
+1. code link : https://github.com/pinky-banik/quiz_master
+2. Live Demo : https://cortexlink-react.vercel.app/
+3. Technology : ReactJS,Tailwind CSS, Rest Api, React-router
+![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
+</details>
 
 
 ## 📢 MERN Stack Projects
+
+<!-- Garden Maker -->
 <details>
-<summary>MERN Stack TODO App</summary>
-  
-1. MERN Stack TODO Client : https://github.com/19smabtahinoor/MERN-Stack-Todo-Client
-2. MERN Stack TODO Live Link :https://.vercel.app/
-3. MERN Stack TODO Server Link: https://github.com/19smabtahinoor/MERN-Stack-Todo-Server
+<summary>Garden Maker</summary>
+
+1. Live Link :https://garden-maker.web.app/ 
+2. Client side code : https://github.com/pinky-banik/Garden-Maker-Client
+3. Server side code : https://github.com/pinky-banik/Garden-Maker-Server
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
 </details>
 
+<!-- Jerins Parlour -->
+<details>
+<summary>Jerins Parlour</summary>
+  
+1. Live Link :https://github.com/pinky-banik/Jerins-parlour-server
+2. Client side code : https://github.com/pinky-banik/Jerins-parlour
+3. Server side code : https://github.com/pinky-banik/Garden-Maker-Server
 
+5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+</details>
+
+## 📢 Next Js Projects
+<details>
+<summary>Headphone Media</summary>
+
+1. Live Demo: https://headphone-media.vercel.app/
+2. Github Code: https://github.com/pinky-banik/Headphone-media
+3. Technology : Next js
+![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+</details>
+
+</details>
+<summary>Rental Residence</summary>
+1. Live Demo: https://rental-residence.vercel.app/
+2. Github Code: https://github.com/pinky-banik/Rental-Residence
+3. Technology : Next Js, chakra ui
+![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing)
+</details>
 
 ## 📢 Vanilla Javascript Projects
 <details>
@@ -131,7 +183,6 @@
 
 
 
-
 ## 📢 My Components with Tailwind CSS
 <details>
 <summary>Navar with React and Tailwind CSS</summary>
@@ -140,6 +191,3 @@
 2. Github Code: https://github.com/19smabtahinoor/Navbar-React-Tailwind
 3. Technology : React JS, Tailwind CSS
 </details>
-
-
-
