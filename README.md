@@ -108,25 +108,6 @@
 </details>
 
 
-<details>
-<summary>Quiz Master</summary>
-
-1. code link : https://github.com/pinky-banik/quiz_master
-2. Live Demo : https://cortexlink-react.vercel.app/
-3. Technology : ReactJS,Tailwind CSS, Rest Api, React-router
-![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
-</details>
-
-
-<details>
-<summary>Quiz Master</summary>
-
-1. code link : https://github.com/pinky-banik/quiz_master
-2. Live Demo : https://cortexlink-react.vercel.app/
-3. Technology : ReactJS,Tailwind CSS, Rest Api, React-router
-![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
-</details>
-
 
 ## 📢 MERN Stack Projects
 
