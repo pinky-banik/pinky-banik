@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I am <a href="https://pinky-banik.vercel.app/" target="_blank">Pinky Banik</a></h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
-<img align="center" src="https://github.com/pinky-banik/pinky-banik/blob/main/try.jpg" alt="pinky-banik" />
+<img align="center" src="https://github.com/pinky-banik/pinky-banik/blob/main/try.png" alt="pinky-banik" />
 
 
 <h3 align="left">Connect with me:</h3>
