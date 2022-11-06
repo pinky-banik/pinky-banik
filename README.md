@@ -97,6 +97,7 @@
 # 🚀 Some Projects
 
 ## 📢 React Projects
+
 <!-- Quiz Master -->
 <details>
 <summary>Quiz Master</summary>
@@ -206,6 +207,18 @@
 3. Server side code : https://github.com/pinky-banik/Creative-Talks-Server
 
 5. Technologies: React JS, Node JS, Express JS, Mongoose, Tailwind CSS etc...
+<!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
+</details>
+
+<!-- E-School -->
+<details>
+<summary>E-School</summary>
+  
+1. Live Link : https://eschool-bd.web.app/
+2. Client side code : https://github.com/pinky-banik/E-School-Client
+3. Server side code : https://github.com/pinky-banik/E-Scool-Server
+
+5. Technologies: React JS, Node JS, Express JS, firebase auth, Tailwind CSS etc...
 <!-- ![ss](https://drive.google.com/file/d/1noexOaCRxK93ZYpBsjqRDvvdn8YzGZFX/view?usp=sharing) -->
 </details>
 
