@@ -98,7 +98,7 @@
 
 ## 📢 React Projects
 
-<!-- Quiz Master -->
+<!-- Quiz Master --->
 <details>
 <summary>Quiz Master</summary>
 
