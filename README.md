@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pinky-banik&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
 </div>
 
-<!-- languages and tools -->
+<!-- languages and tools --->
 ### 👨‍💻 Programming and markup languages
 <p>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
